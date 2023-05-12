@@ -21,6 +21,7 @@ specifiers:
   react-dom: ^18.2.0
   tailwindcss: ^3.3.2
   three: ^0.151.3
+  typescript: ^5.0.4
   valtio: ^1.10.4
   vite: ^4.3.0
 
@@ -48,6 +49,7 @@ devDependencies:
   eslint-plugin-react-refresh: 0.3.5_eslint@8.40.0
   postcss: 8.4.23
   tailwindcss: 3.3.2
+  typescript: 5.0.4
   vite: 4.3.5
 
 packages:
@@ -2812,6 +2814,12 @@ packages:
       call-bind: 1.0.2
       for-each: 0.3.3
       is-typed-array: 1.1.10
+    dev: true
+
+  /typescript/5.0.4:
+    resolution: {integrity: sha512-cW9T5W9xY37cc+jfEnaUvX91foxtHkza3Nw3wkoF4sSlKn0MONdkdEndig/qPBWXNkmplh3NzayQzCiHM4/hqw==}
+    engines: {node: '>=12.20'}
+    hasBin: true
     dev: true
 
   /unbox-primitive/1.0.2:
