@@ -13,6 +13,7 @@ https://threejs-ai-nine.vercel.app/
 - Three.js
 - React
 - Typescript
+- Node.js
 
 ## 📦 Installation
 
