@@ -14,6 +14,8 @@ https://threejs-ai-nine.vercel.app/
 - React
 - Typescript
 - Node.js
+- Express
+- Mongoose
 
 ## 📦 Installation
 
